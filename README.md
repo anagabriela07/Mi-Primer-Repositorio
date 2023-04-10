@@ -1,2 +1,2 @@
 # Mi-Primer-Repositorio
- Repositorio para aprender a crear
+ Repositorio para aprender a manejar GitHub
